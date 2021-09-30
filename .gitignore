@@ -131,3 +131,7 @@ dmypy.json
 *.jpg
 *.jpeg
 *.mp4
+
+*.weights
+*.cfg
+*.names
